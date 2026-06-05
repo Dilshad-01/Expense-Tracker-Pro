@@ -2,9 +2,6 @@
 
 A modern, full-featured personal finance dashboard built with React, Vite, and Tailwind CSS. Track expenses, visualize spending patterns, generate monthly reports, and export/import data — all persisted locally in your browser.
 
-![React](https://img.shields.io/badge/React-18-blue)
-![Vite](https://img.shields.io/badge/Vite-6-purple)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-cyan)
 
 ## Features
 
@@ -29,33 +26,6 @@ A modern, full-featured personal finance dashboard built with React, Vite, and T
 | Recharts 2 | Data visualization |
 | localStorage | Data persistence |
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── Dashboard.jsx
-│   ├── ExpenseForm.jsx
-│   ├── ExpenseTable.jsx
-│   ├── Filters.jsx
-│   ├── SummaryCards.jsx
-│   └── Charts/
-│       ├── CategoryPieChart.jsx
-│       ├── MonthlyLineChart.jsx
-│       ├── CategoryBarChart.jsx
-│       └── ExpenseAreaChart.jsx
-├── hooks/
-│   └── useLocalStorage.js
-├── utils/
-│   ├── storage.js
-│   ├── calculations.js
-│   └── constants.js
-├── pages/
-│   └── DashboardPage.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
-```
 
 ## Getting Started
 
@@ -214,5 +184,5 @@ Required columns: `title`, `amount`, `category`, `date`. The `id` and `notes` co
 
 ## License
 
-Author : Mohamed Dilshad KP
-Website: www.dilshadkp.cloud
+- Author : Mohamed Dilshad KP
+- Website: www.dilshadkp.cloud
