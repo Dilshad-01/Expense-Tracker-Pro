@@ -114,7 +114,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-gray-200 py-6 text-center text-xs text-gray-400 dark:border-gray-800 dark:text-gray-500">
-        Expense Tracker Pro by Mohamed Dilshad KP &mdash; Data stored locally in your browser
+        Expense Tracker Pro by Mohamed Dilshad KP
       </footer>
 
       <Toast toasts={toasts} onDismiss={dismissToast} />
