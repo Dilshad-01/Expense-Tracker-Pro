@@ -188,7 +188,6 @@ Required columns: `title`, `amount`, `category`, `date`. The `id` and `notes` co
 
 - GitHub: https://github.com/Dilshad-01
 - LinkedIn: https://www.linkedin.com/in/mdilshadkp
-- Repository: https://github.com/Dilshad-01/memoraid-system-monitor.git
 - Website: www.dilshadkp.cloud
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
